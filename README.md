@@ -15,8 +15,8 @@
 
 
 ## Steam好友列表
-| Avatar                                                                            | Name              | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
-|:----------------------------------------------------------------------------------|:------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 76561199442780559 | [76561199442780559](https://steamcommunity.com/profiles/76561199442780559/) | ✅           | 2025-10-10 04:35:28 |                |          |
-| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 夜                 | [76561199230061137](https://steamcommunity.com/profiles/76561199230061137/) | ✅           | 2024-03-12 05:00:22 |                |          |
-| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 3375145774        | [76561199567471094](https://steamcommunity.com/profiles/76561199567471094/) | ✅           | 2024-03-12 04:42:56 |                |          |
+| Avatar                                                                            | Name              | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
+|:----------------------------------------------------------------------------------|:------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 76561199442780559 | [76561199442780559](https://steamcommunity.com/profiles/76561199442780559/) | ❌           | 2025-10-10 04:35:28 | 2026-11-09 12:59:13 |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 夜                 | [76561199230061137](https://steamcommunity.com/profiles/76561199230061137/) | ✅           | 2024-03-12 05:00:22 |                     |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 3375145774        | [76561199567471094](https://steamcommunity.com/profiles/76561199567471094/) | ✅           | 2024-03-12 04:42:56 |                     |          |
